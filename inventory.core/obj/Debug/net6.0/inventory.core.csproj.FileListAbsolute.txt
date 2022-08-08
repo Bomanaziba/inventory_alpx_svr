@@ -1,0 +1,12 @@
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/bin/Debug/net6.0/inventory.core.deps.json
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/bin/Debug/net6.0/inventory.core.dll
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/bin/Debug/net6.0/inventory.core.pdb
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/inventory.core.csproj.AssemblyReference.cache
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/inventory.core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/inventory.core.AssemblyInfoInputs.cache
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/inventory.core.AssemblyInfo.cs
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/inventory.core.csproj.CoreCompileInputs.cache
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/inventory.core.dll
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/refint/inventory.core.dll
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/inventory.core.pdb
+/Users/bomanazibaogoni/Public/Project/inventory.alpx.svr/inventory.core/obj/Debug/net6.0/ref/inventory.core.dll
